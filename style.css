@@ -1,4 +1,4 @@
-{ 
+*{ 
   margin: 0;
   padding: 0;
 
@@ -6,7 +6,7 @@
 
 
 header {
-    background-color:#8d800c; 
+    background-color:#b1a00d; 
     color:beige;
     display: flex;
     justify-content: space-around;
@@ -25,5 +25,12 @@ header {
 }
 
 body {
-    font-family; 'Allura';
+    font-family: 'Allura';
+}
+.turma { 
+  background-image: linear-gradient(#b1a00d,#ffffff);
+  color:rgb(124, 68, 0);
+}
+.Gal Banda.png{
+   width: 25%;
 }
