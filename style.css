@@ -35,6 +35,15 @@ body {
   align-items:center;
   padding:10px 0;
 }
+
+turma-imagem {
+    width:25%
+ }
+
+ .turma-div-conteudo{
+  width:35%;
+  font-size:20px;
+ }
 .dragoes.png{
    width: 10%;
 }
