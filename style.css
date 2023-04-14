@@ -31,6 +31,9 @@ body {
   background-image: linear-gradient(#b1a00d,#ffffff);
   color:rgb(124, 68, 0);
   display:flex;
+  justify-content:center;
+  align-items:center;
+  padding:24px 0;
 }
 .GalBanda.png{
    width: 10%;
