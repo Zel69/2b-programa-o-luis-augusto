@@ -30,6 +30,7 @@ body {
 .turma { 
   background-image: linear-gradient(#b1a00d,#ffffff);
   color:rgb(124, 68, 0);
+  display:flex;
 }
 .Gal Banda.png{
    width: 25%;
